@@ -22,4 +22,4 @@ Proyecto de reconocimiento de gestos, utilizando Python y MediaPipe. Realizado t
 | 8|Manos arriba | manos extendidas arriba de la cabeza | ![manosarriba](./imagenestarea2/manosarriba.png) |
 
 
-- [video](./)
+- [video](./tarea02.mp4)
