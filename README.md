@@ -12,8 +12,8 @@ Proyecto de reconocimiento de gestos, utilizando Python y MediaPipe. Realizado t
 
 | # | *Nombre* | *Cómo se activa* | *imagen* |
 | --- | --- | --- | --- |
-| 1 |paz  | índice y corazón extendidos | ![paz](./imagenestarea2/paz.png) |
-| 2 | ILY | índice, meñique y pulgar extendidos | ![ily](./ddpi-tarea-02/imagenestarea2/ILY.png) |
+| 1 |paz  | índice y corazón extendidos | ![paz](./imagenestarea2/ddpi-tarea-02/paz.png) |
+| 2 | ILY | índice, meñique y pulgar extendidos | ![ily](./imagenestarea2/ILY.png) |
 | 3 | pulgar arriba | pulgar arriba  | ![pulgararriba](./imagenestarea2/pulgararriba.png) |
 | 4 | saludo | extender todos los dedos de una mano | ![saludo](./imagenestarea2/saludo.png) |
 | 5 | doblePuño | cerrar dos puños | ![doblepuño](./imagenestarea2/doblepuño.png) |
