@@ -21,6 +21,6 @@ Proyecto de reconocimiento de gestos, utilizando Python y MediaPipe. Realizado t
 | 7 | bocaAbierta | Abrir boca | imagen |
 | 8|Manos arriba | manos extendidas arriba de la cabeza | imagen |
 
-- [carpeta de imágenes](./nombreCarpeta)
+- [imagenes](./imagenestarea2)
 
 - [video](./)
