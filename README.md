@@ -12,15 +12,14 @@ Proyecto de reconocimiento de gestos, utilizando Python y MediaPipe. Realizado t
 
 | # | *Nombre* | *Cómo se activa* | *imagen* |
 | --- | --- | --- | --- |
-| 1 |paz  | índice y corazón extendidos | imagen |
-| 2 | ILY | índice, meñique y pulgar extendidos | imagen |
-| 3 | pulgar arriba | pulgar arriba  | imagen |
-| 4 | saludo | extender todos los dedos de una mano | imagen |
-| 5 | doblePuño | cerrar dos puños | imagen |
-| 6 | dobleIndice | extender dos dedos índices | imagen |
-| 7 | bocaAbierta | Abrir boca | imagen |
-| 8|Manos arriba | manos extendidas arriba de la cabeza | imagen |
+| 1 |paz  | índice y corazón extendidos | ![paz](./imagenes/paz.png) |
+| 2 | ILY | índice, meñique y pulgar extendidos | ![ily](./imagenestarea2/ILY.png) |
+| 3 | pulgar arriba | pulgar arriba  | ![pulgararriba](./imagenestarea2/pulgararriba.png) |
+| 4 | saludo | extender todos los dedos de una mano | ![saludo](./imagenestarea2/saludo.png) |
+| 5 | doblePuño | cerrar dos puños | ![doblepuño](./imagenestarea2/doblepuño.png) |
+| 6 | dobleIndice | extender dos dedos índices | ![dobleindice](./imagenestarea2/dobleindice.png) |
+| 7 | bocaAbierta | Abrir boca | ![bocabierta](./imagenestarea2/bocabierta.png) |
+| 8|Manos arriba | manos extendidas arriba de la cabeza | ![manosarriba](./imagenestarea2/manosarriba.png) |
 
-- [imagenes](./imagenestarea2)
 
 - [video](./)
