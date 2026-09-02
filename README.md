@@ -1,4 +1,3 @@
-# Nombre del proyecto
 
 ## tarea-02
 Hugo Montoya
